@@ -12,4 +12,4 @@ Neste estudo me concentrei em analisar:
 - A relação entre as features;
 - A métrica de precisão do modelo;
 
-Para acessar o notebook: https://drive.google.com/file/d/1vWv1ms_DQA_pExE-AZNtMRnUT33ZT-YV/view?usp=sharing
+Para acessar o notebook: https://colab.research.google.com/drive/1OAtkynN5s4Ch5v-4y3-Nia99ChWqSKZx?usp=sharing
